@@ -2,14 +2,14 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_infinite_scroll'
-  s.version     = '2.1.1'
+  s.version     = '2.0.2'
   s.summary     = 'This gem is a spree extension which adds inifinite scrolling to product listings view'
   s.description = 'By default spree uses page based navigation for product listings.  This gem replaces it with infinite scrolling.'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Khurram Zaman'
   s.email     = 'khurram@kwanso.com'
-  s.homepage  = 'http://www.kwanso.com/ecommerce/'
+  s.homepage  = 'https://github.com/kwanso/spree_infinite_scroll'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
