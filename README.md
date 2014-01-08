@@ -9,7 +9,7 @@ Installation
 Add spree_infinite_scroll to your Gemfile:
 
 ```ruby
-gem 'spree_infinite_scroll'
+gem 'spree_infinite_scroll', github: "kwanso/spree_infinite_scroll"
 ```
 
 Bundle your dependencies and run the installation generator:
